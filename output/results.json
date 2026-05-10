@@ -1,0 +1,226 @@
+{
+  "generated_at": "2026-05-09T22:56:11.526122+00:00",
+  "model": {
+    "provider": "Google",
+    "name": "gemini-2.5-flash"
+  },
+  "companies": [
+    {
+      "company_name": "Tallink Grupp",
+      "document": {
+        "file_name": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf",
+        "report_year": "2024",
+        "source_url": "https://image.tallink.com/image/upload/grupp/documents/sustainability-reports/Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+      },
+      "summary": {
+        "answer": "AS Tallink Grupp operates primarily in maritime transport, hospitality, retail, and supporting services across its value chain. The company integrates sustainability by committing to key ESG themes including carbon emission reductions, human rights, employee well-being, and responsible supply chain governance, supported by comprehensive due diligence processes. Strategically, the Group aims to achieve high customer satisfaction, develop quality services, improve profitability, and strengthen market leadership. A central priority involves significantly reducing GHG emissions from its shipping operations through technological solutions and energy efficiency, aligning with international targets and avoiding greenwashing.",
+        "sources": [
+          {
+            "page": 27,
+            "quote": "until 2030, and several other research and survey findings.  Process  Business Process Analysis  The business process analysis examined the Group's ec",
+            "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+          },
+          {
+            "page": 6,
+            "quote": "6 | 77      Consolidated Sustainability Statement 2024    Incorporation by Reference    The following table outlines the locations of ESRS disclosures",
+            "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+          },
+          {
+            "page": 4,
+            "quote": "stated otherwise, all calcu lations and methodologies follow the guidance provided within the ESRS  framework. Further details on limitations and acco",
+            "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "question": "What is the company's purpose and main activities?",
+          "status": "answered",
+          "answer": "The company's purpose and main activities involve maritime transport, hospitality, retail, and supporting services. Specifically, it provides ferry and cruise services for passenger and cargo transport across the Baltic Sea (Estonia, Finland, Sweden).",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 4,
+              "quote": "stated otherwise, all calcu lations and methodologies follow the guidance provided within the ESRS  framework. Further details on limitations and accounting principles are provided in the Accounting",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            },
+            {
+              "page": 6,
+              "quote": "6 | 77      Consolidated Sustainability Statement 2024    Incorporation by Reference    The following table outlines the locations of ESRS disclosures that have been incorporated by reference and pres",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            }
+          ],
+          "missing_information": null
+        },
+        {
+          "question": "What is the company's primary focus?",
+          "status": "not_found",
+          "answer": null,
+          "confidence": "low",
+          "sources": [],
+          "missing_information": "The context describes several strategic cornerstones and objectives, such as achieving high customer satisfaction, developing a wide range of high-quality services, improving profitability, and strengthening market leadership, but it does not explicitly state one single \"primary focus\" for the company."
+        },
+        {
+          "question": "What is the company's commitment to risk management?",
+          "status": "answered",
+          "answer": "The company demonstrates a strong commitment to risk management by proactively identifying and discussing future ESG reporting risks through regular stakeholder meetings and weekly Management Board discussions. It has an Internal Audit department providing independent assurance on risk management, governance, and internal control processes, with sustainability reporting procedures formally integrated into internal audit processes from 2025. The identification of impacts, risks, and opportunities (IROs) is a continuous shared responsibility of the entire Management Board. The company has implemented a comprehensive due diligence process to identify, assess, prevent, mitigate, and remediate actual and potential impacts on people and the environment, aligning with international frameworks. Specific risk mitigation strategies include monitoring supplier compliance through regular audits to mitigate non-compliance and supply chain disruption risks, and maintaining a low Lost Time Injury Frequency Rate (LTIFR) and zero fatal accidents. ESG aspects are considered for major strategic decisions, and resources dedicated to ESG reporting, strategy, and action plans have been increased, including new FTE roles from Q4 2024.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 24,
+              "quote": "IRO areas, such as carbon emission reductions, human rights, employee health, safety and well-being,  and supply chain governance; ESG KPI setting; carbon reduction strategy and action plans; and othe",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            },
+            {
+              "page": 23,
+              "quote": "weekly basis. Additionally, AS Tallink Grupp has an Internal Audit department, whose role is to provide  independent and objective assura nce that an organisation's risk management, governance, and  i",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            }
+          ],
+          "missing_information": null
+        },
+        {
+          "question": "What is the company's commitment to energy management?",
+          "status": "answered",
+          "answer": "The Group leverages energy-efficient technologies and green innovations, monitors advancements in sustainable fuel and renewable energy technologies, and prioritizes energy efficiency in operational activities, supported by continuous investments in innovative technologies.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 19,
+              "quote": "change and reducing air pollution, as all topics related to protecting the environment and  operating in a more environmentally friendly manner enhance compet itiveness. The Group  leverages energy-ef",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            },
+            {
+              "page": 42,
+              "quote": "42 | 77      Consolidated Sustainability Statement 2024  Nuclear and fossil gas-related activities for revenue, CapEx and OpEx   Nuclear energy-related activities   Yes/No  The undertaking carries out",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            }
+          ],
+          "missing_information": null
+        },
+        {
+          "question": "What is the company's commitment to data security?",
+          "status": "answered",
+          "answer": "The company's commitment to data security is to make it a top priority to prevent breaches, ensure compliance with data protection regulations, and maintain customer trust. This includes handling customer data securely and in strict compliance with all current and future regulations and laws, preventing safety and security incidents that could lead to data security losses, continuously monitoring developments in data protection laws, upgrading IT systems, and investing in IT security and data protection enhancements.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 70,
+              "quote": "information. Collaborat ion with regulatory auth orities in the Group’s home markets and active  networking with national data protection experts help the Group stay updated on evolving legal and  reg",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            },
+            {
+              "page": 70,
+              "quote": "70 | 77      Consolidated Sustainability Statement 2024  The Group has implemented a Privacy Policy 11, which outlines the principles of  processing personal  data of  customers and other data subject",
+              "document": "Tallink-Grupp-Sustainability-Report-2024-ENG-updated.pdf"
+            }
+          ],
+          "missing_information": null
+        }
+      ]
+    },
+    {
+      "company_name": "Eesti Energia",
+      "document": {
+        "file_name": "eesti-energia-2025-final-en.pdf, Eesti-SPO-UoP.pdf",
+        "report_year": "2025",
+        "source_url": "https://public-docs.enefit.com/ettevottest/investorile/eesti-energia-2025-final-en.pdf, https://public-docs.enefit.ee/ettevottest/investorile/ESG/Eesti-SPO-UoP.pdf"
+      },
+      "summary": {
+        "answer": "This energy company primarily operates in electricity production and distribution, alongside liquid fuel operations. Its core ESG themes include mitigating climate change, fostering a people-first green journey, and ensuring transparent corporate governance. Strategic priorities involve a rapid energy transition, aiming to quadruple renewable energy capacity by 2026, cease oil shale electricity production by 2035, and achieve carbon-neutral electricity production by 2045. The company also prioritizes modernizing its distribution network, developing circular economy models for industrial assets, and maintaining robust ethical business conduct through comprehensive risk management and whistleblowing systems.",
+        "sources": [
+          {
+            "page": 90,
+            "quote": "resources for managing material sustainability matters related to the Group’s own workforce can be found  in the S1 ‘Own workforce’ chapter of the sus",
+            "document": "eesti-energia-2025-final-en.pdf"
+          },
+          {
+            "page": 184,
+            "quote": "measured in a manner consistent with that in the consolidated income statement. A more detailed revenue breakdown between goods and services is provid",
+            "document": "eesti-energia-2025-final-en.pdf"
+          },
+          {
+            "page": 183,
+            "quote": "thresholds that would require separate reporting disclosures.  Segment revenues include revenues from external customers only, generated by the sale o",
+            "document": "eesti-energia-2025-final-en.pdf"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "question": "What is the company's purpose and main activities?",
+          "status": "not_found",
+          "answer": null,
+          "confidence": "low",
+          "sources": [],
+          "missing_information": "The context describes the company's sustainability practices, governance, stakeholder engagement, and workforce management, but it does not explicitly state the company's core purpose or its main business activities. While it mentions \"the Group’s activities involve a higher risk of accidents at work and occupational diseases,\" it does not specify what those activities are."
+        },
+        {
+          "question": "What is the company's primary focus?",
+          "status": "not_found",
+          "answer": null,
+          "confidence": "low",
+          "sources": [],
+          "missing_information": "The context describes the company's stakeholder engagement, governance, sustainability strategies, and green finance framework, and mentions it operates within the \"Multi-Utilities industry.\" However, it does not explicitly state the company's primary business or core focus (e.g., \"The company's primary focus is to provide X services\")."
+        },
+        {
+          "question": "What is the company's commitment to risk management?",
+          "status": "answered",
+          "answer": "The company demonstrates a strong commitment to risk management, viewing it as integral to achieving its financial and operational objectives and supporting strategy development. The management board holds ultimate responsibility, and the supervisory board, audit committee, and internal audit department oversee these activities. The company defines its risk appetite in its strategy and budget, establishes mandates, limits, and thresholds for various risks, and has an approved risk management framework guided by international standards and best practices. Risk management measures are regularly updated, and assessing and updating the risk profile is part of daily management activities. The company also employs a structured risk management system with a three lines of defence model, ensuring continuous assessment, monitoring, and reporting of risks.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 49,
+              "quote": "Risk Management",
+              "document": "eesti-energia-2025-final-en.pdf"
+            },
+            {
+              "page": 50,
+              "quote": "50 The management board is ultimately responsible for the Group’s risk  management. The Group’s supervisory board, audit committee and internal  audit department are responsible for overseeing risk ma",
+              "document": "eesti-energia-2025-final-en.pdf"
+            }
+          ],
+          "missing_information": null
+        },
+        {
+          "question": "What is the company's commitment to energy management?",
+          "status": "answered",
+          "answer": "The company's commitment to energy management is focused on mitigating global warming and reducing the negative environmental footprint of energy production, which includes reducing its environmental footprint, increasing its renewable energy production capacity, and reducing the carbon intensity of its energy production operations.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 94,
+              "quote": "chapter of the sustainability statement.  In 2025, the Group did not invest in any coal or natural gas-related activities. An investment of €50  million was made in oil-related activities.  Based on t",
+              "document": "eesti-energia-2025-final-en.pdf"
+            },
+            {
+              "page": 18,
+              "quote": "S E C O N D  P A R T Y  O P I N I O N  Sustainability Quality of the Issuer   and Green Finance Framework   www.iss -corporate.com  18  o f  26   PART IV: CONSISTENCY OF GREEN FINANCING INSTRUMENTS",
+              "document": "Eesti-SPO-UoP.pdf"
+            }
+          ],
+          "missing_information": null
+        },
+        {
+          "question": "What is the company's commitment to data security?",
+          "status": "answered",
+          "answer": "The company is committed to data security by identifying information system failure and loss of data integrity or confidentiality as key risks, conducting and updating risk analyses, increasing employee awareness through training and seminars, regularly monitoring cyber security incidents, and implementing additional cybersecurity solutions. For personal data, the company collects information with customer input and consent, allows customers to delete their accounts and personal data, and ensures data processing, including by outsourced platforms, is compliant with the EU General Data Protection Regulation and national legislation. The company also pays close attention to data protection.",
+          "confidence": "high",
+          "sources": [
+            {
+              "page": 53,
+              "quote": "risks are information system failure and loss of data (including customer data) integrity or  confidentiality. • We conduct and update risk analyses for essential and business-critical activities. • W",
+              "document": "eesti-energia-2025-final-en.pdf"
+            },
+            {
+              "page": 14,
+              "quote": "S E C O N D  P A R T Y  O P I N I O N  Sustainability Quality of the Issuer   and Green Finance Framework   www.iss -corporate.com  14  o f  26   activities and inspections , avoiding CO 2 emissions c",
+              "document": "Eesti-SPO-UoP.pdf"
+            }
+          ],
+          "missing_information": null
+        }
+      ]
+    }
+  ]
+}
