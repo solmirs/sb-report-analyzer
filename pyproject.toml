@@ -1,0 +1,22 @@
+[project]
+name = "esg-analyzer"
+version = "1.0.0"
+description = "RAG-based GenAI application that summarises company ESG reports and answers predefined questions"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3",
+    "langchain-community>=0.3",
+    "langchain-google-genai>=2.0",
+    "langchain-text-splitters>=0.3",
+    "faiss-cpu>=1.9",
+    "pypdf>=5.0",
+    "pydantic>=2.0",
+    "python-dotenv>=1.0",
+    "requests>=2.31",
+    "streamlit>=1.40",
+    "google-generativeai>=0.8",
+    "pytest>=8.0",
+    "langchain-huggingface>=1.2.2",
+    "sentence-transformers>=5.4.1",
+]
